@@ -1,3 +1,8 @@
+/* font-family: 'Albert Sans', sans-serif; */
 h1 {
-  background-color: #ba30e0;
+  background-color: #30e097;
+  font-family: 'Catamaran', sans-serif;
+  margin: 20px 150px;
+  text-align: center;
+  padding: 15px;
 }
